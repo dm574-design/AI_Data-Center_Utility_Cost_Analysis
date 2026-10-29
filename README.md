@@ -90,3 +90,23 @@ The interactive Power BI dashboard contains four pages covering residential elec
 
 ### 4. Data Sources and Methodology
 ![Data Sources and Methodology](dashboard/screenshots/04_data_sources_methodology.png)
+
+## Project Conclusion
+
+This project examined U.S. residential electricity prices, projected data center electricity demand, and potential strategies for managing utility infrastructure costs.
+
+The analysis identified significant differences in residential electricity prices across states and highlighted a projected 141.67% increase in U.S. data center electricity consumption between 2024 and 2028.
+
+Three hypothetical financial scenarios demonstrated how infrastructure cost allocation, long-term service agreements, and flexible electricity demand could help utilities address different financial challenges.
+
+**Key limitations:** The analysis does not establish that data center growth caused residential electricity price increases. The demand forecast includes all U.S. data centers, not exclusively AI facilities. The financial scenarios use illustrative assumptions rather than actual utility savings.
+
+### Skills Demonstrated
+
+- **Python and Pandas:** Data cleaning, exploratory data analysis, and calculations.
+- **Data Visualization:** Identifying patterns and communicating findings through charts.
+- **Power BI:** Creating dashboards, calculated measures, and analytical summaries.
+- **Analytical Thinking:** Evaluating financial scenarios, assumptions, and limitations.
+- **Technical Communication:** Presenting findings through a documented GitHub portfolio project.
+
+This project strengthened my ability to combine data analysis, visualization, and financial reasoning to explore challenges facing the electric utility industry.
